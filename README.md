@@ -1,6 +1,6 @@
 # Movieflix Clone
 
-🔗 **Live Demo**: [Click here to watch MovieFlix](https://hariharan212.github.io/movieflix-clone/)
+🔗 **Live Demo**: [Click here to watch MovieFlix](https://movie-flix-clone.netlify.app/)
 
 🎬 MovieFlix is a React-based movie streaming application that replicates the core UI and experience of Netflix. It allows users to browse a wide range of movies, view their posters, and watch trailers by embedding YouTube videos. The movie data, including posters and trailer links, is fetched from The Movie Database (TMDB) API. User authentication is handled securely using Firebase.
 
